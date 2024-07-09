@@ -1,0 +1,2 @@
+1.git log --oneline -> It displays logof all files in oneliner
+2.git checkout <commit_version> -> This lets you go back in commit history
