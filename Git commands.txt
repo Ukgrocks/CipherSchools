@@ -1,0 +1,7 @@
+1.git status -> Tell the status of my files
+2.git add index.html
+3.git rm -cached <name_of_file> -> Sending for staging the files
+4.git commit -m "Inital commit" -> Commiting or setting changes as final
+5.git log -> Presents us with changes detected in git
+6.git config --global user.mail <user-mail>
+7.git add. -> adding all files of a folder for staging
